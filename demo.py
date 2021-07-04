@@ -1,5 +1,5 @@
 #Program to generate fixtures for the first round of the next Hurling Knockout tournament across all Irish counties.
-#This will be broadcasted via RTE. So ensure there is 0.5 sec gap while printing each game fixture.
+#This will be broadcasted via RTE. So ensure there is a 0.5 sec dramatic pause while printing each fixture.
 import time
 import random
 Teamdict ={1:'Dublin',2:'Galway',3:'Wexford',4:'Watrerford',5:'Mayo',6:'Cork',7:'Donegal',8:'Limerick',9:'Tipperary',
